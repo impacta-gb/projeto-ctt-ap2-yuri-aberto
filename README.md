@@ -12,7 +12,7 @@ Documentação completa da linguagem Go, construída com **Zensical** e publicad
 |------------------------|-----------------------------------------------------|
 | Gabriel Vieira         | Introdução e Instalação, Sintaxe Básica e Variáveis |
 | Pedro Henrique Brandão | Estruturas de Controle, Arrays, Slices e Maps       |
-| Vinicius               | Structs, Métodos e Tratamento de Erros              |
+| Vinicius Freitas       | Structs, Métodos e Tratamento de Erros              |
 | Arthur Cesar           | Concorrência I: Goroutines, Concorrência II: Channels |
 | Felipe Nere            | Gerenciamento de Pacotes, Testes Automatizados e configuração do pipeline CI/CD |
 
