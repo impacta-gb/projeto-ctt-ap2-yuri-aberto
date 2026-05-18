@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Du716tKn)
+
 # 📘 Go Lang Docs — CTT AP2
 
 Documentação completa da linguagem Go, construída com **Zensical** e publicada via **GitHub Pages** com pipeline de CI/CD automatizado no **GitHub Actions**.
@@ -11,7 +12,7 @@ Documentação completa da linguagem Go, construída com **Zensical** e publicad
 |------------------------|-----------------------------------------------------|
 | Gabriel Vieira         | Introdução e Instalação, Sintaxe Básica e Variáveis |
 | Pedro Henrique Brandão | Estruturas de Controle, Arrays, Slices e Maps       |
-| Vinicius               | Structs, Métodos e Tratamento de Erros              |
+| Vinicius Freitas       | Structs, Métodos e Tratamento de Erros              |
 | Arthur Cesar           | Concorrência I: Goroutines, Concorrência II: Channels |
 | Felipe Nere            | Gerenciamento de Pacotes, Testes Automatizados e configuração do pipeline CI/CD |
 
